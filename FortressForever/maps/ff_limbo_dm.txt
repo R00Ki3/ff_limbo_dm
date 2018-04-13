@@ -1,0 +1,7 @@
+ff_limbo_dm
+
+- Mulch style death match.
+- Direct hits only.
+- Flags included for capture the flag if desired.
+______________________________________________________________
+Author: R00Kie
