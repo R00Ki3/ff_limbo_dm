@@ -4,4 +4,4 @@
 ### Includes!
 - Mulch style death match.
 - Direct hits only.
-- Flags included for capture the flag if desired.
+- Flags for CTF if desired.
